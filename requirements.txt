@@ -1,0 +1,15 @@
+os
+random
+colorama
+colorama import Fore
+discord.ext
+discord
+from colorama import init, Fore, Back, Style
+socket 
+os import system, name
+from time import sleep
+requests
+json
+random, string
+string
+discord_webhooks import DiscordWebhooks
